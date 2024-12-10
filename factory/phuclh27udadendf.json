@@ -1,0 +1,9 @@
+{
+	"name": "phuclh27udadendf",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "920da744-c31c-445b-ae25-89a067c0d462",
+		"tenantId": "4f2316b8-8a5f-4ca3-9671-b7aad6ee0b2c"
+	}
+}
